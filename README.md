@@ -1,3 +1,3 @@
-"# PROJECT - Analysis and machine learning of data on the Dijaški.net website (SI language) " 
+PROJECT - Analysis and machine learning of data on the Dijaški.net website (SI language)
 
 The purpose of the following project is to analyze the data of enrollment places at faculties through the data obtained from Dijaški.net. In the first chapter of the project, we will present the problem we are facing, and then we will present the data acquisition process. This is followed by a segment on data cleaning, preparation and processing, as the data in its original form is not suitable for the purpose of machine learning and needs pre-processing. There remains an important chapter on the implementation of machine learning, and at the very end we will summarize the important findings.
